@@ -9,7 +9,7 @@ def square_root(a: float) -> float:
 
 
 def square(a: float) -> float:
-    return pow(a.2)
+    return pow(a,2)
 
 
 def average(a: float, b: float, c: float) -> float:
